@@ -11,7 +11,7 @@ Being always on the technical side and had non-trivial exposures in startup fund
 
 The goal of publishing these to the Internet is of course to get more feedback and criticism so that I can improve my business going forward. Actually, I would really be thrilled if you could create issues in [MVS's GitHub repo page](https://github.com/lobatt/minimalviablestack) so that we can make improvements and keep the content fresh together.
 
-But ultimately, my hope is to democratize the technology part in building startups so that you can **be your own technical co-founder**.
+But ultimately, my hope is to democratize building a viable tech stack in startups so that you can **be your own technical co-founder**.
 
 
 
