@@ -22,9 +22,6 @@ However, if you aimed high and wanted to raise VC funding and/or you have foreig
 
 In turns of cost, it might be slightly higher, but not by much, although for a C-Corp, there is certainly a higher maintenance cost.
 
-
-
-
-
 ![](/images/legalzoom-order.png)
 
+Also, [Stripe Atlas](https://stripe.com/atlas) is another service pretty popular among tech startups planning to get VC funding, their service baked in a few best practices for you so that you don't have to chose, e.g, by default it will create a Delaware C-Corp and even help you create a equity plan with consideration for you talent equity pool. And the ~$500 incoporation cost is pretty reasonable.
