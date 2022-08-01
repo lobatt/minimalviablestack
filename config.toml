@@ -1,4 +1,4 @@
-baseURL = 'https://minimalviablestack.net/'
+baseURL = 'https://minimumviablestack.net/'
 languageCode = 'en-us'
 title = 'Minimal Viable Stack'
 theme = 'hugo-whisper-theme'
