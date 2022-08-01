@@ -1,5 +1,5 @@
 ---
-title: "Assumptions Of The Minimal Viable Stack"
+title: "Assumptions Of The MinimumViable Stack"
 date: 2022-07-20T16:21:28-04:00
 weight: 1
 ---
