@@ -1,5 +1,5 @@
 ---
-title: "MinimumViable Stack"
+title: "Minimum Viable Stack"
 date: 2022-07-16T00:18:25-04:00
 ---
 
