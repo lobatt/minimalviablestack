@@ -22,11 +22,13 @@ With traditional banks, you can expect compliant and reliable services, reputabl
 
 I would say for a small busines that does not expect a lot of cashflow and has little fund in the bank, those new online banks might be more suitable just to get started. One benefit is their virtual card that you could start use immediately after approval and also some of them provide functionalities needed for your business operation via their online products, e.g, expense tracking, tax/accounting help and invoicing.
 
-(I have signed up for [Mercury](https://mercury.com/), let's see what happens)
-
-I chose Mercury among all other heavily marketed online business banking solutions after my research conducted via Twitter(probably the only public review site that I trust) search. Most of the startup owners are putting it as a good Brex alternative. Brex is one of the more establied names in this online business banking game and has been less friendly to small business owners hence I figure Mercury might be the next good thing in turns of functionality and suitability for small businesses.
+I chose [Mercury](https://mercury.com/r/mvs) among all other heavily marketed online business banking solutions after my research conducted via Twitter(probably the only public review site that I trust) search. Most of the startup owners are putting it as a good Brex alternative. Brex is one of the more establied names in this online business banking game and has been less friendly to small business owners recently hence I figure Mercury might be the next good thing in turns of functionality and suitability for small businesses.
 
 The application process is pretty simple but you do need to have your IDs and document of you business ready, and by now, you should already have them if you have finished [setting up your business entity](https://minimumviablestack.net/docs/getting_started/).
+
+After getting approved, I do find that it offers some other unexpected perks for all the services and products you would likely need to operate a businness, highlights include the possibility to get $5k in AWS credit(which is by no means the maximum AWS credit you can get as a startup but still nice), $1k credit for [Alchemy](https://alchemy.com/?r=afc3e15a439f8fe6) as well as 3mo free for [Gusto](https://gusto.com/), etc, Also you have the option to propose your product/service as a perk in their ecosystem which I think is a brilliant idea.
+
+![Mercury Perks](/images/mercury-perks.png)
 
 ### Notes On Crypto Banking
 
@@ -37,4 +39,8 @@ Right now, I would say in the US, the most important things regarding doing busi
 I do need to mention that because crypto banking is relatively new, event the big names are just doing their best, so don't be frustrated if you find their application process a bit unnecessarily complex and disorienting. Maybe it just their thousands of lawyers trying to piece things together, poorly...
 
 ![Coinbase Business Account Application](/images/coinbase-biz-account-app.png)
+
+After some back and forth with Coinbase's customer service team, I eventually succeeded in setting up my business account with Coinbase, not the best possible experience but it is nice to know that there are real people looking at your application and figuring things out.
+
+In the process, I do want to give a shout out to [Sejda](https://www.sejda.com/) which is the best free no hassel online PDF modifying and signing tool that I can find, use it wisely so that you don't ever need to do the print, sign and scan dance again.
 
